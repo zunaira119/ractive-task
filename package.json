@@ -1,0 +1,27 @@
+{
+  "name": "reactive",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "crossroads": "^0.12.2",
+    "hasher": "^1.2.0",
+    "html-webpack-plugin": "^5.5.0",
+    "i": "^0.3.7",
+    "npm": "^8.14.0",
+    "ractive": "^1.4.0",
+    "ractive-router": "^0.2.4",
+    "webpack": "^5.73.0",
+    "webpack-dev-server": "^4.9.3"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
+}
